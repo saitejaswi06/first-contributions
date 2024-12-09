@@ -33,6 +33,7 @@
 - hi, iam anoof
 - add-lansar
 - [Twinkle](https://github.com/Twinkle748)
+- hi,i am Tej
 - Hi, I'm Anuj.
 - Zahra
 - [Leaphea](https://github.com/sok-leaphea)
